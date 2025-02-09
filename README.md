@@ -1,3 +1,9 @@
+# Personal AI Chat
+### React TS, Ollama, Deepseek R1
+![image](https://github.com/user-attachments/assets/3bef256f-ee6e-46ee-b413-510b23a6540f)
+![image](https://github.com/user-attachments/assets/ec2826c6-d56f-4258-b45e-6634ee6d87ea)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
